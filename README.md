@@ -1,1 +1,7 @@
 # aprixo-os
+
+Aprixo open source is a rapid application development plattform developed in PHP.
+
+- Launched in 2005
+- Given to open source in 2015
+
